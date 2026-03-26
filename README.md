@@ -37,6 +37,7 @@ penjelasan singkat dari 15 fitur yg kami buat:
 -Login Button: Pintu masuk bagi pengguna untuk mengakses akun pribadi guna mendapatkan pengalaman yang lebih personal.
 
 -Explore Documentation: Tombol navigasi utama yang langsung mengarahkan pengguna ke halaman materi dokumentasi.
+
 -Dropdown Menu: Menu lipat pada bagian "About" yang berisi informasi kebijakan (Policy), detail website, dan sistem rating.
 
 -Navbar: Bar navigasi atas yang konsisten untuk berpindah antar halaman utama seperti Home, About, dan Sign In.
