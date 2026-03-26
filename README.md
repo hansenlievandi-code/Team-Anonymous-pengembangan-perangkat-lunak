@@ -31,6 +31,7 @@ Konten Edukasi: Sidebar berisi topik (Variabel, Operator, Fungsi, dll.), fitur C
 Interaksi: Fitur Rating dan Report bug/feedback.
 
 penjelasan singkat dari 15 fitur yg kami buat:
+
 -Search Button: Memudahkan pengguna mencari topik dokumentasi tertentu secara cepat melalui kolom pencarian.
 
 -Login Button: Pintu masuk bagi pengguna untuk mengakses akun pribadi guna mendapatkan pengalaman yang lebih personal.
