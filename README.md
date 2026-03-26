@@ -79,3 +79,5 @@ isi document page dikerjakan bersama
 menyusun file oleh ervian dan Jonathan
 
 design dibuat oleh Laurencio, ervian, dan Shawn 
+
+diupload ke GitHub oleh Laurencio
