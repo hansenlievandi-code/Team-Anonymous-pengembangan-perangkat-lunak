@@ -59,3 +59,22 @@ penjelasan singkat dari 15 fitur yg kami buat:
 -Report Bug/Feedback: Sarana bagi pengguna untuk melaporkan masalah teknis atau memberikan saran pengembangan.
 
 -discusion page:sarana yang disediakan untuk sesama user berdiskusi.
+
+list pengerjaan masing masing:
+framework dibuat oleh ervian dan Laurencio
+
+15 fitur dibagi 4 org mengerjakan masing masing:
+
+-ervian:homepage,login,search, dan discussion page
+
+-Laurencio:navbar,sidebar,homebutton, dan next page button
+
+-shawn:toggle,rating, dan feedback 
+
+-Jonathan:list favorite,copy code,button sidebar dan explorer documents
+
+isi document page dikerjakan bersama
+
+menyusun file oleh ervian dan Jonathan
+
+design dibuat oleh Laurencio, ervian, dan Shawn 
