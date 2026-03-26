@@ -60,7 +60,8 @@ penjelasan singkat dari 15 fitur yg kami buat:
 
 -discusion page:sarana yang disediakan untuk sesama user berdiskusi.
 
-list pengerjaan masing masing:
+list pengerjaan masing masing anggota kelompok:
+
 framework dibuat oleh ervian dan Laurencio
 
 15 fitur dibagi 4 org mengerjakan masing masing:
@@ -69,7 +70,7 @@ framework dibuat oleh ervian dan Laurencio
 
 -Laurencio:navbar,sidebar,homebutton, dan next page button
 
--shawn:toggle,rating, dan feedback 
+-shawn:toggle theme,rating, dan feedback 
 
 -Jonathan:list favorite,copy code,button sidebar dan explorer documents
 
