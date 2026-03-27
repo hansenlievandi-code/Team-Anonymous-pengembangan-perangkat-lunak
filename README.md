@@ -70,9 +70,9 @@ Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan penggun
 | Anggota | Fitur yang Dikerjakan |
 |---------|----------------------|
 | Ervian | Homepage, Login, Search, Discussion Page |
-| Laurencio | Navbar, Sidebar, Home Button, Next Page Button |
+| Laurencio | Navbar, Sidebar, Home Button, Next Page Button,explorer documentation |
 | Shawn | Toggle Theme, Rating, Feedback |
-| Jonathan | List Favorite, Copy Code, Button Sidebar, Explorer Documents |
+| Jonathan | List Favorite, Copy Code, Button Sidebar |
 
 - **Isi document page** dikerjakan bersama.
 - **Penyusunan file** oleh Shawn, Ervian, dan Jonathan.
