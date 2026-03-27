@@ -79,8 +79,8 @@ framework dibuat oleh ervian dan Laurencio
 
 isi document page dikerjakan bersama
 
-menyusun file oleh ervian dan Jonathan
+menyusun file oleh Shawn, Ervian dan Jonathan
 
-design dibuat oleh Laurencio, ervian, dan Shawn
+design dibuat oleh Laurencio, Ervian, dan Shawn
 
 diupload ke GitHub oleh Laurencio
