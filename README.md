@@ -17,6 +17,7 @@ Menjalankan perintah npm run dev pada direktori proyek.
 
 Mengakses tautan localhost (biasanya http://localhost:5173/) di browser.
 
+
 3. Fitur Utama (15 Fitur)
 Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan pengguna:
 
@@ -62,7 +63,7 @@ penjelasan singkat dari 15 fitur yg kami buat:
 
 -discusion page:sarana yang disediakan untuk sesama user berdiskusi.
 
-   4.list pengerjaan masing masing anggota kelompok:
+list pengerjaan masing masing anggota kelompok:
 
 framework dibuat oleh ervian dan Laurencio
 
@@ -72,7 +73,7 @@ framework dibuat oleh ervian dan Laurencio
 
 -Laurencio:navbar,sidebar,homebutton, dan next page button
 
--shawn:toggle theme,rating, dan feedback 
+-shawn:toggle theme,rating, dan feedback
 
 -Jonathan:list favorite,copy code,button sidebar dan explorer documents
 
@@ -80,6 +81,6 @@ isi document page dikerjakan bersama
 
 menyusun file oleh ervian dan Jonathan
 
-design dibuat oleh Laurencio, ervian, dan Shawn 
+design dibuat oleh Laurencio, ervian, dan Shawn
 
 diupload ke GitHub oleh Laurencio
