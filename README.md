@@ -75,8 +75,8 @@ Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan penggun
 | Shawn | Toggle Theme, Rating, Feedback,explorer documentation |
 | Jonathan | List Favorite, Copy Code, Button Sidebar,explorer documentation |
 
-- **Isi document explorer documentation** dikerjakan oleh Laurencio,Shawn, dan Jonathan.
+- **Isi document explorer documentation** dikerjakan oleh Laurencio, Shawn, dan Jonathan.
 - **Penyusunan file** oleh Shawn, Ervian, dan Jonathan.
 - **Design** dibuat oleh Laurencio, Ervian, dan Shawn.
 - **Upload ke GitHub** oleh Laurencio.
-- **Penjelasan Readme** dibuat ama Shawn dan Laurencio
+- **Penjelasan Readme** dibuat oleh Shawn dan Laurencio
