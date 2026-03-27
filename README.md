@@ -6,7 +6,7 @@ Project **Website-Dokumentasi-Python** oleh Tim Anonymous dari Universitas Mikro
 
 1.Informasi Tim
 
-Nama-Tim: **Anonymous**.
+  Nama-Tim: **Anonymous**.
 
 **Anggota**: 
 -1.Ervian Mentari.
@@ -17,14 +17,15 @@ Nama-Tim: **Anonymous**.
 Status: Mahasiswa Semester 4
 Fakultas:Teknik Informatika S-1.
 
-2. Teknis Akses Website
-Website dibangun menggunakan framework React Vite(Backend). Cara mengaksesnya meliputi:
+2.Teknis Akses Website
 
-Membuka terminal (CMD/PowerShell).
+  Website dibangun menggunakan framework React Vite(Backend). Cara mengaksesnya meliputi:
 
-Menjalankan perintah npm run dev pada direktori proyek.
+  Membuka terminal (CMD/PowerShell).
 
-Mengakses tautan localhost (biasanya http://localhost:5173/) di browser.
+  Menjalankan perintah npm run dev pada direktori proyek.
+
+  Mengakses tautan localhost (biasanya http://localhost:5173/) di browser.
 
 
 3. Fitur Utama (15 Fitur)
