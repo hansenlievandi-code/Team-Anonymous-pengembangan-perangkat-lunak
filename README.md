@@ -1,7 +1,7 @@
 # Team Anonymous
 ### Pengembangan Perangkat Lunak
 
-Project **Website Dokumentasi Python** oleh Tim Anonymous dari Universitas Mikroskil adalah sebuah platform pembelajaran digital yang dirancang menggunakan **React Vite** ([dokumentasi](https://vite.dev/guide/)) untuk menyajikan materi pemrograman Python secara modern, sistematis, dan interaktif.
+Project **Website Dokumentasi Python** oleh Tim Anonymous dari Universitas Mikroskil adalah sebuah platform pembelajaran digital yang dirancang menggunakan **React Vite** ([Backend](https://vite.dev/guide/)) untuk menyajikan materi pemrograman Python secara modern, sistematis, dan interaktif.
 
 Anonymous Rocket Website adalah platform pembelajaran berbasis web yang dirancang untuk membantu pengguna mempelajari bahasa pemrograman Python secara mandiri. Materi disusun secara bertahap mulai dari dasar hingga tingkat mahir, sehingga cocok untuk pemula maupun yang ingin memperdalam pemahaman mereka. Website ini dirancang dengan antarmuka yang sederhana dan tidak membingungkan, agar siapa pun dapat menggunakannya dengan nyaman tanpa hambatan teknis.
 
@@ -72,10 +72,10 @@ Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan penggun
 |---------|----------------------|
 | Ervian | Homepage, Login, Search, Discussion Page |
 | Laurencio | Navbar, Sidebar, Home Button, Next Page Button,explorer documentation |
-| Shawn | Toggle Theme, Rating, Feedback |
-| Jonathan | List Favorite, Copy Code, Button Sidebar |
+| Shawn | Toggle Theme, Rating, Feedback,explorer documentation |
+| Jonathan | List Favorite, Copy Code, Button Sidebar,explorer documentation |
 
-- **Isi document page** dikerjakan bersama.
+- **Isi document explorer documentation** dikerjakan oleh Laurencio,Shawn, dan Jonathan.
 - **Penyusunan file** oleh Shawn, Ervian, dan Jonathan.
 - **Design** dibuat oleh Laurencio, Ervian, dan Shawn.
 - **Upload ke GitHub** oleh Laurencio.
