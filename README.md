@@ -2,9 +2,13 @@
 Project **Website-Dokumentasi-Python** oleh Tim Anonymous dari Universitas Mikroskil adalah sebuah platform pembelajaran digital yang dirancang menggunakan **React-Vite** untuk menyajikan materi pemrograman Python secara modern, sistematis, dan interaktif.
 
 1. Informasi Tim
-Nama Tim: Anonymous.
+Nama-Tim: **Anonymous**.
 
-Anggota: Ervian Mentari, Laurencio Luckson, Shawn Michael, dan Jonathan Felix Fubrianto.
+Anggota: 
+-1.Ervian Mentari.
+-2.Laurencio Luckson.
+-3.Shawn Michael.
+-4.Jonathan Felix Fubrianto.
 
 Status: Mahasiswa Semester 4, Fakultas Teknik Informatika S-1.
 
