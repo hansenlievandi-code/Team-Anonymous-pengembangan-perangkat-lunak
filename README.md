@@ -1,96 +1,79 @@
-# Team-Anonymous
+# Team Anonymous
+### Pengembangan Perangkat Lunak
 
-**Pengembangan-Perangkat-Lunak**
+Project **Website Dokumentasi Python** oleh Tim Anonymous dari Universitas Mikroskil adalah sebuah platform pembelajaran digital yang dirancang menggunakan **React Vite** ([dokumentasi](https://vite.dev/guide/)) untuk menyajikan materi pemrograman Python secara modern, sistematis, dan interaktif.
 
-Project **Website-Dokumentasi-Python** oleh Tim Anonymous dari Universitas Mikroskil adalah sebuah platform pembelajaran digital yang dirancang menggunakan **React-Vite** https://vite.dev/guide/ untuk menyajikan materi pemrograman Python secara modern, sistematis, dan interaktif.
+---
 
-1.Informasi Tim
+## 1. Informasi Tim
 
-  Nama-Tim: **Anonymous**.
+- **Nama Tim:** Anonymous
+- **Status:** Mahasiswa Semester 4 — Fakultas Teknik Informatika S-1
 
-**Anggota**: 
--1.Ervian Mentari.
--2.Laurencio Luckson.
--3.Shawn Michael.
--4.Jonathan Felix Fubrianto.
+**Anggota:**
+1. Ervian Mentari
+2. Laurencio Luckson
+3. Shawn Michael
+4. Jonathan Felix Fubrianto
 
-Status: Mahasiswa Semester 4
-Fakultas:Teknik Informatika S-1.
+---
 
-2.Teknis Akses Website
+## 2. Teknis Akses Website
 
-  Website dibangun menggunakan framework React Vite(Backend). Cara mengaksesnya meliputi:
+Website dibangun menggunakan framework **React Vite**. Cara mengaksesnya:
 
-  Membuka terminal (CMD/PowerShell).
+1. Buka terminal (CMD/PowerShell).
+2. Jalankan perintah `npm run dev` pada direktori proyek.
+3. Akses tautan localhost (biasanya `http://localhost:5173/`) di browser.
 
-  Menjalankan perintah npm run dev pada direktori proyek.
+---
 
-  Mengakses tautan localhost (biasanya http://localhost:5173/) di browser.
+## 3. Fitur Utama (15 Fitur)
 
-
-3. Fitur Utama (15 Fitur)
 Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan pengguna:
 
-Pencarian & Navigasi: Search button, Navbar, Dropdown (Policy, Rating), dan Next Page untuk alur belajar.
+- **Pencarian & Navigasi:** Search button, Navbar, Dropdown (Policy, Rating), dan Next Page untuk alur belajar.
+- **Keamanan & Akun:** Login/Sign Up button untuk akses pengguna.
+- **Pengalaman Pengguna:** Homepage, Search Bar, Dark/Light Mode Toggle, Explore Documentation, dan tombol Next Page.
+- **Konten Edukasi:** Navbar, Sidebar berisi topik (Variabel, Operator, Fungsi, dll.), fitur Copy Code, dan Sistem Favorite untuk menyimpan materi.
+- **Interaksi:** Fitur Rating, Discussion Page, dan Report Bug/Feedback.
 
-Keamanan & Akun: Login/Sign Up button untuk akses pengguna.
+### Penjelasan Singkat 15 Fitur
 
-Pengalaman Pengguna: Homepage,search bar, Dark/Light Mode toggle, Explore Documentation dan tombol Next Page
+| No | Fitur | Deskripsi |
+|----|-------|-----------|
+| 1 | **Search Bar Button** | Memudahkan pengguna mencari topik dokumentasi tertentu secara cepat melalui kolom pencarian. |
+| 2 | **Login Button** | Pintu masuk bagi pengguna untuk mengakses akun pribadi guna mendapatkan pengalaman yang lebih personal. |
+| 3 | **Explore Documentation** | Tombol navigasi utama yang langsung mengarahkan pengguna ke halaman materi dokumentasi. |
+| 4 | **Dropdown Menu** | Menu lipat pada bagian "About" yang berisi informasi kebijakan (Policy), detail website, dan sistem rating. |
+| 5 | **Navbar** | Bar navigasi atas yang konsisten untuk berpindah antar halaman utama seperti Home, About, dan Sign In. |
+| 6 | **Sidebar** | Bar navigasi samping yang terletak di documentation explorer berisi materi-materi pada website ini. |
+| 7 | **Homepage** | Halaman awal yang memberikan gambaran umum, visi, dan tujuan dari platform pembelajaran ini. |
+| 8 | **Button Sidebar** | Menu samping yang menyusun daftar topik pemrograman (seperti Variabel, Operator, Fungsi) secara berurutan. |
+| 9 | **Rating** | Fitur bagi pengguna untuk memberikan penilaian terhadap kualitas materi atau layanan website. |
+| 10 | **Dark/Light Mode Toggle** | Tombol pengubah tema tampilan untuk kenyamanan visual pengguna dalam kondisi cahaya berbeda. |
+| 11 | **Next Page** | Tombol navigasi di akhir materi untuk melanjutkan pembelajaran ke topik berikutnya secara sistematis. |
+| 12 | **Tombol List Favorite** | Memungkinkan pengguna menandai materi penting dan menyimpannya dalam daftar akses cepat. |
+| 13 | **Copy Code** | Fitur praktis untuk menyalin contoh kode program ke clipboard hanya dengan satu klik. |
+| 14 | **Report Bug/Feedback** | Sarana bagi pengguna untuk melaporkan masalah teknis atau memberikan saran pengembangan. |
+| 15 | **Discussion Page** | Sarana yang disediakan untuk sesama user berdiskusi. |
 
-Konten Edukasi: Navbar, Sidebar berisi topik (Variabel, Operator, Fungsi, dll.), fitur Copy code untuk contoh program, dan Sistem favorite untuk menyimpan materi.
+---
 
-Interaksi: Fitur Rating, discussion page, dan Report bug/feedback.
+## 4. Pembagian Tugas
 
-penjelasan singkat dari 15 fitur yg kami buat:
+**Framework** dibuat oleh Ervian dan Laurencio.
 
--Search Bar Button: Memudahkan pengguna mencari topik dokumentasi tertentu secara cepat melalui kolom pencarian.
+15 fitur dibagi ke 4 anggota:
 
--Login Button: Pintu masuk bagi pengguna untuk mengakses akun pribadi guna mendapatkan pengalaman yang lebih personal.
+| Anggota | Fitur yang Dikerjakan |
+|---------|----------------------|
+| Ervian | Homepage, Login, Search, Discussion Page |
+| Laurencio | Navbar, Sidebar, Home Button, Next Page Button |
+| Shawn | Toggle Theme, Rating, Feedback |
+| Jonathan | List Favorite, Copy Code, Button Sidebar, Explorer Documents |
 
--Explore Documentation: Tombol navigasi utama yang langsung mengarahkan pengguna ke halaman materi dokumentasi.
-
--Dropdown Menu: Menu lipat pada bagian "About" yang berisi informasi kebijakan (Policy), detail website, dan sistem rating.
-
--Navbar: Bar navigasi atas yang konsisten untuk berpindah antar halaman utama seperti Home, About, dan Sign In.
-
--Sidebar: Bar navigasi samping yang terletak di documentation explorer berisi materi materi pada website ini. 
-
--Homepage: Halaman awal yang memberikan gambaran umum, visi, dan tujuan dari platform pembelajaran ini.
-
--Button Sidebar: Menu samping yang menyusun daftar topik pemrograman (seperti Variabel, Operator, Fungsi) secara berurutan.
-
--Rating: Fitur bagi pengguna untuk memberikan penilaian terhadap kualitas materi atau layanan website.
-
--Dark/Light Mode Toggle: Tombol pengubah tema tampilan untuk kenyamanan visual pengguna dalam kondisi cahaya berbeda.
-
--Next Page: Tombol navigasi di akhir materi untuk melanjutkan pembelajaran ke topik berikutnya secara sistematis.
-
--Tombol list favorite : Memungkinkan pengguna menandai materi penting dan menyimpannya dalam daftar akses cepat.
-
--Copy Code: Fitur praktis untuk menyalin contoh kode program ke clipboard hanya dengan satu klik.
-
--Report Bug/Feedback: Sarana bagi pengguna untuk melaporkan masalah teknis atau memberikan saran pengembangan.
-
--Discusion page:sarana yang disediakan untuk sesama user berdiskusi.
-
-list pengerjaan masing masing anggota kelompok:
-
-framework dibuat oleh ervian dan Laurencio
-
-15 fitur dibagi 4 org mengerjakan masing masing:
-
--ervian:homepage,login,search, dan discussion page
-
--Laurencio:navbar,sidebar,homebutton, dan next page button
-
--shawn:toggle theme,rating, dan feedback
-
--Jonathan:list favorite,copy code,button sidebar dan explorer documents
-
-isi document page dikerjakan bersama
-
-menyusun file oleh Shawn, Ervian dan Jonathan
-
-design dibuat oleh Laurencio, Ervian, dan Shawn
-
-diupload ke GitHub oleh Laurencio
+- **Isi document page** dikerjakan bersama.
+- **Penyusunan file** oleh Shawn, Ervian, dan Jonathan.
+- **Design** dibuat oleh Laurencio, Ervian, dan Shawn.
+- **Upload ke GitHub** oleh Laurencio.
