@@ -14,7 +14,8 @@ Anggota:
 -3.Shawn Michael.
 -4.Jonathan Felix Fubrianto.
 
-Status: Mahasiswa Semester 4, Fakultas Teknik Informatika S-1.
+Status: Mahasiswa Semester 4
+Fakultas:Teknik Informatika S-1.
 
 2. Teknis Akses Website
 Website dibangun menggunakan framework React Vite(Backend). Cara mengaksesnya meliputi:
