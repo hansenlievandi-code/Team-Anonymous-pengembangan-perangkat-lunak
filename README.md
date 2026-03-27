@@ -17,22 +17,22 @@ Menjalankan perintah npm run dev pada direktori proyek.
 
 Mengakses tautan localhost (biasanya http://localhost:5173/) di browser.
 
-3. Fitur Utama (14 Fitur)
+3. Fitur Utama (15 Fitur)
 Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan pengguna:
 
 Pencarian & Navigasi: Search button, Navbar, Dropdown (Policy, Rating), dan Next Page untuk alur belajar.
 
 Keamanan & Akun: Login/Sign Up button untuk akses pengguna.
 
-Pengalaman Pengguna: Dark/Light Mode toggle dan tombol Explore Documentation.
+Pengalaman Pengguna: Homepage,search bar, Dark/Light Mode toggle, Explore Documentation dan tombol Next Page
 
-Konten Edukasi: Sidebar berisi topik (Variabel, Operator, Fungsi, dll.), fitur Copy code untuk contoh program, discusion page, dan sistem Toggle favorite untuk menyimpan materi.
+Konten Edukasi: Navbar, Sidebar berisi topik (Variabel, Operator, Fungsi, dll.), fitur Copy code untuk contoh program, dan Sistem favorite untuk menyimpan materi.
 
-Interaksi: Fitur Rating dan Report bug/feedback.
+Interaksi: Fitur Rating, discussion page, dan Report bug/feedback.
 
 penjelasan singkat dari 15 fitur yg kami buat:
 
--Search Button: Memudahkan pengguna mencari topik dokumentasi tertentu secara cepat melalui kolom pencarian.
+-Search Bar Button: Memudahkan pengguna mencari topik dokumentasi tertentu secara cepat melalui kolom pencarian.
 
 -Login Button: Pintu masuk bagi pengguna untuk mengakses akun pribadi guna mendapatkan pengalaman yang lebih personal.
 
@@ -41,6 +41,8 @@ penjelasan singkat dari 15 fitur yg kami buat:
 -Dropdown Menu: Menu lipat pada bagian "About" yang berisi informasi kebijakan (Policy), detail website, dan sistem rating.
 
 -Navbar: Bar navigasi atas yang konsisten untuk berpindah antar halaman utama seperti Home, About, dan Sign In.
+
+-Sidebar: Bar navigasi samping yang terletak di documentation explorer berisi materi materi pada website ini. 
 
 -Homepage: Halaman awal yang memberikan gambaran umum, visi, dan tujuan dari platform pembelajaran ini.
 
@@ -52,7 +54,7 @@ penjelasan singkat dari 15 fitur yg kami buat:
 
 -Next Page: Tombol navigasi di akhir materi untuk melanjutkan pembelajaran ke topik berikutnya secara sistematis.
 
--Toggle & List Favorit: Memungkinkan pengguna menandai materi penting dan menyimpannya dalam daftar akses cepat.
+-Toggle code mark: Memungkinkan pengguna menandai materi penting dan menyimpannya dalam daftar akses cepat.
 
 -Copy Code: Fitur praktis untuk menyalin contoh kode program ke clipboard hanya dengan satu klik.
 
