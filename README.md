@@ -71,9 +71,9 @@ Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan penggun
 | Anggota | Fitur yang Dikerjakan |
 |---------|----------------------|
 | Ervian | Homepage, Login, Search, Discussion Page |
-| Laurencio | Navbar, Sidebar, Home Button, Next Page Button,explorer documentation |
-| Shawn | Toggle Theme, Rating, Feedback,explorer documentation |
-| Jonathan | List Favorite, Copy Code, Button Sidebar,explorer documentation |
+| Laurencio | Navbar, Sidebar, Home Button, Next Page Button, explorer documentation |
+| Shawn | Toggle Theme, Rating, Feedback, explorer documentation |
+| Jonathan | List Favorite, Copy Code, Button Sidebar, explorer documentation |
 
 - **Isi document explorer documentation** dikerjakan oleh Laurencio, Shawn, dan Jonathan.
 - **Penyusunan file** oleh Shawn, Ervian, dan Jonathan.
