@@ -62,7 +62,7 @@ penjelasan singkat dari 15 fitur yg kami buat:
 
 -discusion page:sarana yang disediakan untuk sesama user berdiskusi.
 
-list pengerjaan masing masing anggota kelompok:
+4.list pengerjaan masing masing anggota kelompok:
 
 framework dibuat oleh ervian dan Laurencio
 
