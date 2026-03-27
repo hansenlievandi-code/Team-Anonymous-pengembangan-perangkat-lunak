@@ -55,13 +55,13 @@ penjelasan singkat dari 15 fitur yg kami buat:
 
 -Next Page: Tombol navigasi di akhir materi untuk melanjutkan pembelajaran ke topik berikutnya secara sistematis.
 
--Toggle code mark: Memungkinkan pengguna menandai materi penting dan menyimpannya dalam daftar akses cepat.
+-Tombol list favorite : Memungkinkan pengguna menandai materi penting dan menyimpannya dalam daftar akses cepat.
 
 -Copy Code: Fitur praktis untuk menyalin contoh kode program ke clipboard hanya dengan satu klik.
 
 -Report Bug/Feedback: Sarana bagi pengguna untuk melaporkan masalah teknis atau memberikan saran pengembangan.
 
--discusion page:sarana yang disediakan untuk sesama user berdiskusi.
+-Discusion page:sarana yang disediakan untuk sesama user berdiskusi.
 
 list pengerjaan masing masing anggota kelompok:
 
