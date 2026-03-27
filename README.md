@@ -78,4 +78,4 @@ Website ini dilengkapi dengan berbagai fitur interaktif untuk memudahkan penggun
 - **Penyusunan file** oleh Shawn, Ervian, dan Jonathan.
 - **Design** dibuat oleh Laurencio, Ervian, dan Shawn.
 - **Upload ke GitHub** oleh Laurencio.
-- **Penjelasan Readme dibuat ama Shawn dan Laurencio
+- **Penjelasan Readme** dibuat ama Shawn dan Laurencio
