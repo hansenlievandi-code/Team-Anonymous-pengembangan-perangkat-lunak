@@ -8,7 +8,8 @@ Project **Website Dokumentasi Python** oleh Tim Anonymous dari Universitas Mikro
 ## 1. Informasi Tim
 
 - **Nama Tim:** Anonymous
-- **Status:** Mahasiswa Semester 4 — Fakultas Teknik Informatika S-1
+- **Status:** Mahasiswa Semester 4
+- **Fakultas** Teknik Informatika S-1
 
 **Anggota:**
 1. Ervian Mentari
