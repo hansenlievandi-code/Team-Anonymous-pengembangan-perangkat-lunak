@@ -5,6 +5,8 @@ Project **Website Dokumentasi Python** oleh Tim Anonymous dari Universitas Mikro
 
 Anonymous Rocket Website adalah platform pembelajaran berbasis web yang dirancang untuk membantu pengguna mempelajari bahasa pemrograman Python secara mandiri. Materi disusun secara bertahap mulai dari dasar hingga tingkat mahir, sehingga cocok untuk pemula maupun yang ingin memperdalam pemahaman mereka. Website ini dirancang dengan antarmuka yang sederhana dan tidak membingungkan, agar siapa pun dapat menggunakannya dengan nyaman tanpa hambatan teknis.
 
+Design Website ini upgradable untuk sekarang dari segi konten , feature , dll dimana ini akan terus dikembangkan sesuai kebutuhan dan ide ide yg muncul kelak. saat ini pun ada ide yg sudah ada sebagian disketsakan dan masih dalam proses prototyping karna pengerjaannya membutuhkan analisis panjang dan 
+
 
 ## 1. Informasi Tim
 
