@@ -13,10 +13,10 @@ Website ini bersifat upgradable = konten, fitur, dan tampilan akan terus dikemba
 - **Fakultas:** Teknik Informatika S-1
 
 **Anggota:**
-1. Ervian Mentari
-2. Laurencio Luckson
-3. Shawn Michael
-4. Jonathan Felix Fubrianto
+1. Ervian Mentari = 241110896
+2. Laurencio Luckson = 241110805
+3. Shawn Michael = 241111461 
+4. Jonathan Felix Fubrianto = 241112984
 
 ---
 
