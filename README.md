@@ -1,7 +1,7 @@
 # Team Anonymous
 ### Pengembangan Perangkat Lunak
 
-Anonymous Rocket Website adalah platform pembelajaran berbasis web yang dikembangkan oleh Tim Anonymous dari Universitas Mikroskil menggunakan React Vite (dokumentasi). Website ini dirancang untuk membantu pengguna mempelajari bahasa pemrograman Python secara mandiri, dengan materi yang disusun secara bertahap mulai dari dasar hingga tingkat mahir. Tampilannya dibuat sederhana dan mudah digunakan, sehingga cocok untuk semua kalangan tanpa perlu keahlian teknis khusus.
+Anonymous Rocket Website adalah platform pembelajaran berbasis web yang dikembangkan oleh Tim Anonymous dari Universitas Mikroskil menggunakan React Vite ([documentation](https://vite.dev/guide/)) Website ini dirancang untuk membantu pengguna mempelajari bahasa pemrograman Python secara mandiri, dengan materi yang disusun secara bertahap mulai dari dasar hingga tingkat mahir. Tampilannya dibuat sederhana dan mudah digunakan, sehingga cocok untuk semua kalangan tanpa perlu keahlian teknis khusus.
 
 Website ini bersifat upgradable — konten, fitur, dan tampilan akan terus dikembangkan sesuai kebutuhan. Saat ini sudah terdapat beberapa ide pengembangan yang sedang dalam tahap prototyping dan membutuhkan analisis lebih lanjut sebelum diimplementasikan.
 
