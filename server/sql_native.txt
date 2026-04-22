@@ -28,16 +28,6 @@ CREATE TABLE inf_jadwal_dokter (
     FOREIGN KEY (id_dokter) REFERENCES inf_dokter(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
 
-CREATE TABLE inf_pasien (
-    id            INT          NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    nama_lengkap  VARCHAR(255) NOT NULL,
-    nik           CHAR(16)     NOT NULL UNIQUE,
-    jenis_kelamin ENUM('Laki-laki','Perempuan') NOT NULL,
-    tanggal_lahir DATE         NOT NULL,
-    alamat        TEXT,
-    nomor_telepon VARCHAR(20)
-) ENGINE=InnoDB;
-
 CREATE TABLE inf_janji_temu (
     id             INT      NOT NULL AUTO_INCREMENT PRIMARY KEY,
     id_dokter      INT      NOT NULL,
@@ -49,4 +39,14 @@ CREATE TABLE inf_janji_temu (
     FOREIGN KEY (id_dokter)  REFERENCES inf_dokter(id),
     FOREIGN KEY (id_pasien)  REFERENCES inf_pasien(id),
     FOREIGN KEY (id_jadwal)  REFERENCES inf_jadwal_dokter(id)
+) ENGINE=InnoDB;
+
+CREATE TABLE inf_pasien (
+    id            INT          NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nama_lengkap  VARCHAR(255) NOT NULL,
+    nik           CHAR(16)     NOT NULL UNIQUE,
+    jenis_kelamin ENUM('Laki-laki','Perempuan') NOT NULL,
+    tanggal_lahir DATE         NOT NULL,
+    alamat        TEXT,
+    nomor_telepon VARCHAR(20)
 ) ENGINE=InnoDB;
